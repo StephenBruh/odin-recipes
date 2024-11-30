@@ -1,2 +1,1 @@
-# odin-recipes
-code practice
+I am going to make a website for recipes to practice what i have learned with the odin project
